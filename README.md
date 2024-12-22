@@ -55,3 +55,6 @@ Doğruluk önemli ölçüde daha düşük olsaydı, atılabilecek adımlar şunl
 
 ## **Sonuç**
 Model, tüm test setlerinde yüksek doğruluk elde ederek olağanüstü bir genelleme gösteriyor. Ancak mimari, veri ön işleme ve hiperparametre ayarlamalarındaki iyileştirmeler, performansı daha da ileriye taşıyabilirdi. Beyaz dengesi düzeltmesinin etkili bir iyileştirme olduğu kanıtlandı ve test doğruluğunu önemli ölçüde artırdı. Bu deney, benzer görevlerin gelecekteki yinelemeleri için sağlam bir temel oluşturuyor.
+
+## Projenin Kaggle Linki
+https://www.kaggle.com/code/oruntrkokulolu/classification-of-animals
